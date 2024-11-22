@@ -1,5 +1,5 @@
 import flet as ft
-from servicios import Servicios
+from appDentista.Services.servicios import Servicios
 from Clases.dentista import Dentista
 
 # Página de inicio (página principal)

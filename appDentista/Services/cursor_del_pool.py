@@ -1,5 +1,5 @@
-from logger_base import log
-from Conexiones import Conexion
+from appDentista.Services.logger_base import log
+from appDentista.Services.Conexiones import Conexion
 
 class CursorDelPool:
     def __init__(self):

@@ -1,4 +1,4 @@
-from logger_base import log
+# from logger_base import log
 from psycopg2 import pool
 import sys
 
